@@ -964,6 +964,6 @@ A curated list of Java frameworks, libraries and software.
 
 Contributions are very welcome!
 
-Please have a look at the [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) guidelines.
+Please have a look at the [CONTRIBUTING](https://github.com/mayur8890/java-links/blob/master/CONTRIBUTING.md) guidelines.
 
 [c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
